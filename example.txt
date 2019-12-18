@@ -1,0 +1,4 @@
+
+1. Created a dummy file called example. txt
+2. This is only for testing purpose
+3. This is used to test git and github connectivity
